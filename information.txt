@@ -1,0 +1,10 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Y3VyaW91cy1tb25zdGVyLTYzLmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_hTcaBTowvGeFsRViud1AdSntnGGqXy696bccaGWBxR
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+MONGODB_URI=mongodb+srv://codingsprint31:vCp6OD2yodjn9tBG@cluster0.ilvsmrd.mongodb.net/
+# codingsprint31
+# codingsprint31
+# vCp6OD2yodjn9tBG
